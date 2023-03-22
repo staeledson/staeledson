@@ -34,16 +34,15 @@ Olá, sou **Stael Edson**, sou de Fortaleza-CE, e atualmente estou em transiçã
   <img src="https://img.shields.io/badge/-NPM-1C1C1C?logo=npm&logoColor=CB3837&style=plastic" alt="npm" width="70px">
   <img src="https://img.shields.io/badge/-Docker-1C1C1C?style=plastic&logo=docker&logoColor=1572B6" alt="docker" width="85px">
   <img src="https://img.shields.io/badge/-MySQL-1C1C1C?style=plastic&logo=mysql&logoColor=4479A1" alt="mysql" width="85px">
-  
+  <img src="https://img.shields.io/badge/-Node.js-1C1C1C?style=plastic&logo=Node.js&logoColor=3C873A" alt="nodeJS" width="90px">
+  <img src="https://img.shields.io/badge/-Express-1C1C1C?style=plastic&logo=express&logoColor=fff" alt="express" width="95px">
+  <img src="https://img.shields.io/badge/-TypeScript-1C1C1C?style=plastic&logo=typescript&logoColor=3178C6" alt="typescript" width="110px">
 </p>
 
 ### Em aprendizado:
 
-<p> 
-  <img src="https://img.shields.io/badge/-Node.js-1C1C1C?style=plastic&logo=Node.js&logoColor=3C873A" alt="nodeJS" width="90px">
-  <img src="https://img.shields.io/badge/-Express-1C1C1C?style=plastic&logo=express&logoColor=fff" alt="express" width="95px">
+<p>   
   <img src="https://img.shields.io/badge/-MongoDB-1C1C1C?style=plastic&logo=mongodb&logoColor=47A248" alt="mongodb" width="105px">
-  <img src="https://img.shields.io/badge/-TypeScript-1C1C1C?style=plastic&logo=typescript&logoColor=3178C6" alt="typescript" width="110px">
   <img src="https://img.shields.io/badge/-Heroku-1C1C1C?style=plastic&logo=heroku&logoColor=764ABC" alt="heroku" width="90px">
   <img src="https://img.shields.io/badge/-Python-1C1C1C?style=plastic&logo=python&logoColor=fff" alt="phyton" width="85px">   
 </p>
