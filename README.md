@@ -12,7 +12,6 @@ Olá, sou **Stael Edson**, sou de Fortaleza-CE, e atualmente estou em transiçã
 - Concluí o módulo de desenvolvimento **front-end**, e já desenvolvo projetos utilizando React.js;
 - No momento estou estudando o módulo de desenvolvimento **back-end**, como parte da minha formação **full stack**;
 - Já desenvolvi algumas versões do meu Bot de investimento, em mql4, mql5 e python. Atualmente estou fazendo uma versando em JS utilizando Node.js;
-- 
 - 📫 Caso queira entrar em contato, meu email é **edsonstael@gmail.com**.
 - 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/staeledson/resume" target="_blank">clicando aqui</a> para mais informações e conecte-se comigo no <a href="https://www.linkedin.com/in/staeledson/" target="_blank">LinkedIn</a>.
 
