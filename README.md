@@ -9,12 +9,12 @@
 
 # Olá, sou Stael Edson! 👋
 
-Atualmente, trabalho como **Desenvolvedor Júnior Full Stack** na [Pluralmed](https://www.pluralmed.com/), uma empresa focada no desenvolvimento de sistemas na área da saúde. Estou localizado em Sobral, Ceará.
+Atualmente, trabalho como **Desenvolvedor Full Stack** na [Pluralmed](https://www.pluralmed.com/), uma empresa focada no desenvolvimento de sistemas na área da saúde. Estou localizado em Sobral, Ceará.
 
 ## Experiência e Habilidades
 
 - 💻 Desenvolvimento Full Stack com PHP, Laravel, Vue.js, Alpine.js, Blade, React.js, React Native e mais.
-- 🌐 Manutenção do site da empresa.
+- 🌐 Manutenção e desenvolvimento de sites.
 - 🔧 Trabalho em projetos de sistemas relacionados à área da saúde.
 - 🧪 Realizo testes unitários e E2E utilizando Jest, Pest e Cypress.
 - 💼 Além disso, também faço freelancers em meu tempo livre.
