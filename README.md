@@ -67,9 +67,8 @@ Aqui estão algumas das linguagens e ferramentas que utilizo no meu dia a dia:
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=staeledson&repo=github-readme-stats&count_private=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true)
+<img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=staeledson&theme=dark" />
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=staeledson&theme=vision-friendly-dark&layout=compact)
 
 
 
