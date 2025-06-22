@@ -13,7 +13,7 @@ Atualmente, trabalho como **Desenvolvedor Full Stack** na [Pluralmed](https://ww
 
 ## Experiência e Habilidades
 
-- 💻 Desenvolvimento Full Stack com PHP, Laravel, Vue.js, Alpine.js, Blade, React.js, React Native e mais.
+- 💻 Desenvolvimento Full Stack com PHP, Laravel, NodeJs, Vue.js, Alpine.js, Blade, React.js, React Native e mais.
 - 🌐 Manutenção e desenvolvimento de sites.
 - 🔧 Trabalho em projetos de sistemas relacionados à área da saúde.
 - 🧪 Realizo testes unitários e E2E utilizando Jest, Pest e Cypress.
@@ -21,7 +21,7 @@ Atualmente, trabalho como **Desenvolvedor Full Stack** na [Pluralmed](https://ww
 
 ## Contato
 
-- ✉️ Você pode entrar em contato comigo através do email: [edsonstael@gmail.com](mailto:edsonstael@gmail.com).
+- ✉️ Você pode entrar em contato comigo através do email: [stael.edson.dev@gmail.com](mailto:stael.edson.dev@gmail.com).
 
 ## Currículo
 
