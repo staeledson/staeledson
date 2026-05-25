@@ -9,7 +9,7 @@
 
 # Olá, sou Stael Edson! 👋
 
-Atualmente, trabalho como **Desenvolvedor Full Stack** na [Pluralmed](https://www.pluralmed.com/), uma empresa focada no desenvolvimento de sistemas na área da saúde. Estou localizado em Sobral, Ceará.
+Sou **Desenvolvedor Full Stack** , atuo principalmente no desenvolvimento de sistemas na área da saúde. Estou localizado em Sobral, Ceará.
 
 ## Experiência e Habilidades
 
