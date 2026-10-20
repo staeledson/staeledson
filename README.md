@@ -1,79 +1,53 @@
-<a href="https://github.com/staeledson" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a> 
-<a href="https://www.linkedin.com/in/staeledson/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
-<br />
-<br />
+# Olá, eu sou o Stael Edson 👋
 
-# Olá, sou Stael Edson! 👋
+**Desenvolvedor Full Stack** em Sobral, CE. Construo sistemas para a saúde pública e produtos com IA, do banco de dados ao deploy.
 
-Sou **Desenvolvedor Full Stack** , atuo principalmente no desenvolvimento de sistemas na área da saúde. Estou localizado em Sobral, Ceará.
+[![Portfólio](https://img.shields.io/badge/Portfólio-staeledson.github.io-6366f1?style=flat-square)](https://staeledson.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-staeledson-0A66C2?style=flat-square)](https://www.linkedin.com/in/staeledson/)
+[![E-mail](https://img.shields.io/badge/E--mail-edsonstael@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:edsonstael@gmail.com)
 
-## Experiência e Habilidades
+## O que eu faço
 
-- 💻 Desenvolvimento Full Stack com PHP, Laravel, NodeJs, Vue.js, Alpine.js, Blade, React.js, React Native e mais.
-- 🌐 Manutenção e desenvolvimento de sites.
-- 🔧 Trabalho em projetos de sistemas relacionados à área da saúde.
-- 🧪 Realizo testes unitários e E2E utilizando Jest, Pest e Cypress.
-- 💼 Além disso, também faço freelancers em meu tempo livre.
+- **Sistemas de saúde pública em produção** — regulação, faturamento SUS, escala médica e emergência em uma plataforma Laravel + Vue usada por redes municipais.
+- **Produtos completos, do zero ao deploy** — intranet corporativa, plataforma de pesquisa de campo offline-first (web + Android) e um app de receitas vendido online.
+- **IA aplicada** — RAG, busca semântica com pgvector, extração de dados com LLM, function calling e servidores MCP.
 
-## Contato
+## Stack
 
-- ✉️ Você pode entrar em contato comigo através do email: [stael.edson.dev@gmail.com](mailto:stael.edson.dev@gmail.com).
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<br>
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<br>
+![LLMs](https://img.shields.io/badge/LLMs-OpenAI_·_Claude_·_Gemini-412991?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Pest](https://img.shields.io/badge/Pest-8240A7?style=flat-square)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
 
-## Currículo
+## Projetos em destaque
 
-- 📝 Para mais informações, você pode verificar meu Curriculum Vitae no [GitConnected](https://gitconnected.com/staeledson/resume).
+| Projeto | O que é | Links |
+|---|---|---|
+| **Vituz** | Plataforma de gestão da saúde pública municipal | [estudo de caso](https://staeledson.github.io/#projects) · [ver online](https://vituz.app/login) |
+| **Intranet Corporativa** | Cultura, processos e gestão de talentos (DISC, 9-Box, 360) | [estudo de caso](https://staeledson.github.io/#projects) |
+| **Cadernim de Receitas** | PWA pago com 1.100+ receitas extraídas de PDFs por LLM | [estudo de caso](https://staeledson.github.io/#projects) · [ver online](https://receitas-app.construsoft.online/p/cadernim) |
+| **Pesquisa de Campo** | Coleta georreferenciada offline-first, web + Android | [estudo de caso](https://staeledson.github.io/#projects) |
+| **PromptHub** | Biblioteca de prompts com busca semântica, versões e permissões | [estudo de caso](https://staeledson.github.io/#projects) |
+| **Assistente RAG** | Chat que responde com base nos seus PDFs e DOCX | [código](https://github.com/staeledson/rag-assistant) |
 
-## Linguagens e Ferramentas
-
-Aqui estão algumas das linguagens e ferramentas que utilizo no meu dia a dia: 
-
-  ![HTML5](https://img.shields.io/badge/-HTML5-1C1C1C?style=plastic&logo=html5&logoColor=E34F26)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1C1C1C?style=plastic&logo=css3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-1C1C1C?style=plastic&logo=javascript&logoColor=eed718)
-  ![PHP](https://img.shields.io/badge/-PHP-1C1C1C?style=plastic&logo=php&logoColor=7377AD)
-  ![Laravel](https://img.shields.io/badge/-Laravel-1C1C1C?style=plastic&logo=laravel&logoColor=FF2D20)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-1C1C1C?style=plastic&logo=vue.js&logoColor=4FC08D)
-  ![Alpine.js](https://img.shields.io/badge/-Alpine.js-1C1C1C?style=plastic&logo=alpine.js&logoColor=8BC0D0)
-  ![Blade](https://img.shields.io/badge/-Blade-1C1C1C?style=plastic&logo=laravel&logoColor=FF2D20)
-  ![Python](https://img.shields.io/badge/-Python-1C1C1C?style=plastic&logo=python&logoColor=fff)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1C1C1C?style=plastic&logo=postgresql&logoColor=336791)
-  ![Pest](https://img.shields.io/badge/-Pest-1C1C1C?style=plastic&logo=pestphp&logoColor=8240A7)
-  ![Cypress](https://img.shields.io/badge/-Cypress-1C1C1C?style=plastic&logo=cypress&logoColor=17202C)
-  ![Docker](https://img.shields.io/badge/-Docker-1C1C1C?style=plastic&logo=docker&logoColor=1572B6)
-  ![Node.js](https://img.shields.io/badge/-Node.js-1C1C1C?style=plastic&logo=Node.js&logoColor=3C873A)
-
-  E muito mais!
-
-  ![ReactJs](https://img.shields.io/badge/-ReactJs-1C1C1C?style=plastic&logo=react&logoColor=61DAFB)
-  ![React Router](https://img.shields.io/badge/-React%20Router-1C1C1C?style=plastic&logo=react-router&logoColor=CA4245)
-  ![Redux](https://img.shields.io/badge/-Redux-1C1C1C?style=plastic&logo=redux&logoColor=764ABC)
-  ![Jest](https://img.shields.io/badge/-Jest-1C1C1C?style=plastic&logo=jest&logoColor=C21325)
-  ![Testing Library](https://img.shields.io/badge/-Testing%20Library-1C1C1C?style=plastic&logo=testing-library&logoColor=E33332)
-
-  ![Linux](https://img.shields.io/badge/-Linux-1C1C1C?style=plastic&logo=Linux&logoColor=eed718)
-  ![Git](https://img.shields.io/badge/-Git-1C1C1C?style=plastic&logo=git&logoColor=F05032)
-  ![NPM](https://img.shields.io/badge/-NPM-1C1C1C?style=plastic&logo=npm&logoColor=CB3837)
-  ![MySQL](https://img.shields.io/badge/-MySQL-1C1C1C?style=plastic&logo=mysql&logoColor=4479A1)
-  ![Express](https://img.shields.io/badge/-Express-1C1C1C?style=plastic&logo=express&logoColor=fff)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-1C1C1C?style=plastic&logo=typescript&logoColor=3178C6)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-1C1C1C?style=plastic&logo=mongodb&logoColor=47A248)
-  ![Heroku](https://img.shields.io/badge/-Heroku-1C1C1C?style=plastic&logo=heroku&logoColor=764ABC)
-
-  Estou sempre buscando aprender e expandir minhas habilidades em novas tecnologias.
-
-## Estatísticas do GitHub
-
-<img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=staeledson&theme=dark" />
-
-
-
-
-<br />
-<br />
-
-
-
+A maior parte dos projetos é privada (sistemas da empresa ou produtos próprios). Os estudos de caso completos estão no [portfólio](https://staeledson.github.io).
