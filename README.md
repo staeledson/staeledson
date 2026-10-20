@@ -6,6 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-staeledson-0A66C2?style=flat-square)](https://www.linkedin.com/in/staeledson/)
 [![E-mail](https://img.shields.io/badge/E--mail-edsonstael@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:edsonstael@gmail.com)
 
+> 💡 **Fez seu sistema com IA e quer torná-lo profissional?** Criou um app no Lovable, Bolt, Cursor ou ChatGPT e ele ainda não está pronto para clientes reais? Eu reviso, corrijo e coloco em produção. Atendo **projetos freelance e contratos PJ**. [Peça um orçamento](https://staeledson.github.io/#contact).
+
 ## O que eu faço
 
 - **Sistemas de saúde pública em produção** — regulação, faturamento SUS, escala médica e emergência em uma plataforma Laravel + Vue usada por redes municipais.
