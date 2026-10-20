@@ -45,7 +45,7 @@
 |---|---|---|
 | **Vituz** | Plataforma de gestão da saúde pública municipal | [estudo de caso](https://staeledson.github.io/#projects) · [ver online](https://vituz.app/login) |
 | **Intranet Corporativa** | Cultura, processos e gestão de talentos (DISC, 9-Box, 360) | [estudo de caso](https://staeledson.github.io/#projects) |
-| **Cadernim de Receitas** | PWA pago com 1.100+ receitas extraídas de PDFs por LLM | [estudo de caso](https://staeledson.github.io/#projects) · [ver online](https://receitas-app.construsoft.online/p/cadernim) |
+| **Cadernim de Receitas** | App de receitas com gateway de pagamento integrado (planos mensal, anual e vitalício) e 1.100+ receitas extraídas de PDFs por IA | [estudo de caso](https://staeledson.github.io/#projects) · [ver online](https://receitas-app.construsoft.online/p/cadernim) |
 | **Pesquisa de Campo** | Coleta georreferenciada offline-first, web + Android | [estudo de caso](https://staeledson.github.io/#projects) |
 | **PromptHub** | Biblioteca de prompts com busca semântica, versões e permissões | [estudo de caso](https://staeledson.github.io/#projects) |
 | **Assistente RAG** | Chat que responde com base nos seus PDFs e DOCX | [código](https://github.com/staeledson/rag-assistant) |
